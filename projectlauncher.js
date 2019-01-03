@@ -1,7 +1,7 @@
 /**
  * Creates a Google Doc and sends an email to the current user with a link to the doc.
  */
-// adding another comment to commit for GitHub
+// adding another comment to commit for GitHub again
 
 function createAndSendDocument() {
   // Create a new Google Doc named 'Hello, world!'
